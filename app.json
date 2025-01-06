@@ -7,7 +7,7 @@
   "success_url": "/",
   "addons": [
     "heroku-postgresql:essential-0",
-    "heroku-redis:basic",
+    "heroku-redis:premium-0",
     "mailgun:starter"
   ],
   "formation": {
